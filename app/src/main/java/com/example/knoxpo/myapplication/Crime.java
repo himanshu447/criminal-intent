@@ -3,7 +3,12 @@ package com.example.knoxpo.myapplication;
 import java.util.Date;
 import java.util.UUID;
 
+/**
+ * This is a model class to record Crime objects
+ */
+
 public class Crime {
+
 
     private UUID mId;
     private String mTitle;
